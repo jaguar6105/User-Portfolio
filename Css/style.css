@@ -1,0 +1,24 @@
+body{
+    background-color: grey;
+}
+
+.container {
+    margin-top:  20px;
+}
+
+.mainImage{
+    float: left;
+    height: 80%;
+}
+
+.jumbotron {
+    height: 100%;
+}
+
+.footer {
+    background-color: indigo;
+}
+
+.imageLink {
+        height: 80%;
+}
