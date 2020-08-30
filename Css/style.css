@@ -21,5 +21,15 @@ body{
 }
 
 .imageLink {
+    margin: 1%;
     height: 80%;
+}
+
+@media screen and (max-width: 400px) {
+.mainImage {
+    float: left;
+    height: 40%;
+}
+
+
 }
