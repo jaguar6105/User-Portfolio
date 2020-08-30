@@ -8,7 +8,7 @@ body{
 
 .mainImage{
     float: left;
-    height: 80%;
+    max-width: 50%;
     margin: 1%;
 }
 
@@ -20,16 +20,8 @@ body{
     background-color: indigo;
 }
 
-.imageLink {
+.imageLink{
+    max-width: 100%;
     margin: 1%;
     height: 80%;
-}
-
-@media screen and (max-width: 400px) {
-.mainImage {
-    float: left;
-    height: 40%;
-}
-
-
 }
