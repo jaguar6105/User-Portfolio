@@ -22,6 +22,12 @@ const Home = () => {
                 <li>LinkedIn:
               <a href="https://www.linkedin.com/in/joseph-gill-8b99a117a/" target="_blank">http://www.linkedin.com</a>
                 </li>
+                <li>Email:
+                  <p>gilljoseph603@gmail.com</p>
+                </li>
+                <li>Phone:
+                  <p>(804) 627-3770</p>
+                </li>
               </ul>
           </article>
         </article>
